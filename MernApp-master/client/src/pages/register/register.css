@@ -1,0 +1,72 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+.card{
+    background-color: rgb(0, 0, 0);
+}
+
+.sign1{
+    color: rgb(255, 0, 0);
+    font-size: large;
+    width: 300px;
+    margin-top: 60px;
+    margin-left: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:400;
+}
+
+.box{
+    background-color: black;
+    border: 30px solid rgb(0, 0, 0);
+}
+
+.mouraba{
+    margin-left: 16px;
+    margin-top: 50px;
+
+}
+
+.form-check-label{
+    color: rgb(255, 255, 255);
+}
+
+
+.card-body{
+    margin-left: px;
+}
+
+.log{
+    color: rgb(255, 255, 0);
+    margin-left: 50px;
+}
+
+.form-{
+    margin-left: 900px;
+}
+.form{
+    color: azure;
+    margin-top: 20px;
+}
+
+.repeat{
+    margin-top: -30px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.img999{
+    margin-top: -850px;
+    margin-left: 250px;
+    width: 300px;
+}
+
+.img991{
+    margin-top: -860px;
+    margin-left: 770px;
+    width: 300px;
+}
+
+.form-control{
+    color: rgb(255, 85, 0);
+}
+
+

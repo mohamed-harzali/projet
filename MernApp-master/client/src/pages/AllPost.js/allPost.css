@@ -1,0 +1,11 @@
+.lista{
+    background: url("../../dataimg/back12.jpg") ;
+     min-height: 30.0rem;
+    width:1852px ;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2em;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}

@@ -1,0 +1,39 @@
+.card{
+    background-color: rgb(0, 0, 0);
+    width:400px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    box-shadow: 0 0 20px rgb(238, 78, 78);
+    border: 3px solid rgb(255, 0, 0);
+}
+
+.ownr{
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.card-title{
+    color: rgb(255, 0, 0);
+    font-style: italic;
+}
+
+.card-text{
+    
+    color: rgb(255, 255, 255);
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+}
+
+.imgcomment{
+    margin-left: 250px;
+}
+
+.fasa5{
+    margin-top: -40px;
+}
